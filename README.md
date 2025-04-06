@@ -110,7 +110,7 @@ Plataforma multiplataforma para monitoreo y gestión de operaciones mineras.
 - **Metodologías Ágiles**: Experiencia liderando sprints y aplicando metodologías Scrum/Kanban
 - **Enfoque al Cliente**: Capacidad para traducir requisitos de negocio en soluciones técnicas efectivas
 
-## 📈 Impacto en Números
+## 📈 Impacto en números
 
 - **17+** proyectos empresariales completados exitosamente
 - **32%** reducción promedio en costos operativos para clientes
