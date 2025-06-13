@@ -7,7 +7,7 @@
 
 ## 💫 Sobre mí
 
-Desarrollador Full Stack & Mobile con más de 5 años de experiencia en el ciclo completo de desarrollo de software. Actualmente liderando equipos y proyectos end-to-end en Ebim, donde diseño e implemento soluciones empresariales para diversos sectores industriales.
+Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo completo de desarrollo de software. Actualmente liderando equipos y proyectos end-to-end en Ebim, donde diseño e implemento soluciones empresariales para diversos sectores industriales.
 
 - 🏢 **Full Stack Developer en Ebim**: Responsable de liderar el desarrollo de aplicaciones empresariales completas, desde la arquitectura hasta la implementación
 - 💼 Encargado de la **conceptualización, diseño y desarrollo técnico** de múltiples proyectos para clientes de alto perfil
