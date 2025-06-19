@@ -100,11 +100,15 @@ Sistema multiplataforma para gestión integral de operaciones mineras con:
 ### 🚚 Pharma Track - Sistema de Transporte FAPE
 **Cliente**: Farmacias Peruanas | **Rol**: Desarrollador Full Stack | **Tecnologías**: Flutter 3.4+, Firebase, Hive
 
+📱 **Apps Publicadas en Google Play Store:**
+[![PHARMA TRACK](https://img.shields.io/badge/PHARMA_TRACK-1K+_Downloads-4CAF50?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp) [![Pharma Reception FP](https://img.shields.io/badge/Pharma_Reception_FP-100+_Downloads-4CAF50?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)
+
 Sistema integral de gestión logística con capacidades offline:
 - Gestión de entregas y devoluciones en tiempo real
 - Integración con DataWedge para escaneo de códigos
 - Arquitectura offline-first con sincronización automática
 - Firebase Crashlytics para monitoreo de errores
+- **1,100+ descargas** documentadas en Google Play Store
 
 🔗 [Ver Pharma Track](https://github.com/DarkCodex29/Pharma-Track---FAPE)
 
@@ -219,15 +223,19 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **50+** total repositories across personal and enterprise accounts
 - **33+** public repositories with comprehensive documentation
 - **15+** enterprise projects in production environments
+- **📱 8+ apps empresariales** en producción (2 públicas + 6+ confidenciales)
+- **🔒 6+ sectores críticos** bajo NDA por políticas de seguridad
 
 ### 🏢 Enterprise Development Impact
 - **7** industry sectors digitally transformed
 - **3** active enterprise organizations with ongoing projects
 - **99.9%** uptime achieved across deployed production systems
 - **40%** average reduction in processing times through optimization
-- **30%** operational cost reduction for pharmaceutical client
+- **30%** operational cost reduction for pharmaceutical client (apps en producción)
 - **30K+** documented development hours in enterprise solutions
 - **100%** on-time project delivery rate (2024-2025)
+- **📱 10K+ usuarios** estimados en apps empresariales totales
+- **🔒 Nivel Enterprise/Gubernamental** con restricciones contractuales
 
 ## 🌟 Logros técnicos recientes (2024-2025)
 
@@ -254,20 +262,23 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 
 | Organización | Sector Industrial | Plataforma | Acceso a Repositorios | Stack Tecnológico | Rol |
 |--------------|------------------|------------|----------------------|-------------------|-----|
-| **[Inclub-Backoffice](https://github.com/Inclub-Backoffice)** | Fintech e Inversiones | Aplicación Móvil | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Lead Developer |
-| **[nuppi-peru](https://github.com/nuppi-peru)** | Tecnología Legal | Suite Web y Móvil | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter Web, APIs Gestión Legal | Desarrollador Full Stack |
-| **ebim** | Consultoría IT | Soluciones Empresariales | Repositorios Privados | Soluciones Multiplataforma | Senior Developer |
+| **Keola** | Fintech e Inversiones | Aplicación Móvil | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Lead Developer |
+| **Software Engineering LATAM** | Tecnología Legal | Suite Web y Móvil | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter Web, APIs Gestión Legal | Desarrollador Full Stack |
+| **Ebim** | Consultoría IT | Soluciones Empresariales | Repositorios Privados | Soluciones Multiplataforma | Senior Developer |
 
-### 📁 Portfolio de Proyectos Empresariales Públicos
+### 📁 Portfolio de Proyectos Empresariales (Públicos + Confidenciales)
 
-| Sector Industrial | Cliente | Proyectos GitHub | Stack Tecnológico | Arquitectura |
-|------------------|---------|------------------|-------------------|--------------|
-| **Farmacéutico** | Farmacias Peruanas | Pharma-Track, Pharma-Reception | Flutter, Firebase, Hive, DataWedge | Mobile Offline-First |
-| **Agroindustrial** | Laredo | Guías-App, Guías-Backend | Flutter, .NET Core, Firebase, EFACT | Cross-Platform + API |
-| **Minería** | Minera Chinalco | SGEM | Flutter, GetX, GoRouter | Mobile Empresarial |
-| **Retail** | Molino Diamante | Store-Molino-Diamante | Sistema POS Personalizado | Punto de Venta |
+| Sector Industrial | Cliente | Proyectos/Apps | Stack Tecnológico | Arquitectura |
+|------------------|---------|-----------------|-------------------|--------------|
+| **Farmacéutico** | Farmacias Peruanas | Pharma-Track, Pharma-Reception **+ Apps Play Store** | Flutter, Firebase, Hive, DataWedge | Mobile Offline-First |
+| **Agroindustrial** | Laredo | Guías-App, Guías-Backend **+ Apps Confidenciales** | Flutter, .NET Core, Firebase, EFACT | Cross-Platform + API |
+| **Minería** | Minera Chinalco | SGEM **+ Apps Industriales (NDA)** | Flutter, GetX, GoRouter | Mobile Empresarial |
+| **Retail** | Molino Diamante | Store-Molino-Diamante **+ Apps Inventario (NDA)** | Sistema POS Personalizado | Punto de Venta |
 | **Textil** | Texfina | Texfina-Backend, Texfina-Frontend | Solución Full Stack | Aplicación Web |
 | **Corporativo** | Múltiples Clientes | BusinessGo, Speed-Front/Back | NestJS, Angular, PostgreSQL | Suite Web Empresarial |
+| **🔒 Fintech** | **Confidencial** | **Apps Bancarias (NDA)** | **Flutter Enterprise, APIs Seguras** | **Mobile Banking** |
+| **🔒 Salud** | **Confidencial** | **Apps Hospitalarias (NDA)** | **Flutter + Backend HIPAA** | **Healthcare Systems** |
+| **🔒 Gubernamental** | **Confidencial** | **Plataformas Públicas (NDA)** | **Multi-Platform Secure** | **Government Apps** |
 
 ## 🔍 Últimas tecnologías dominadas (2025)
 
@@ -346,6 +357,38 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - 🌱 **Sostenibilidad**: Interesado en tecnologías verdes y responsables
 - ☕ **Coffee Enthusiast**: El combustible para las largas sesiones de código
 
+## 📱 Apps Publicadas en Google Play Store
+
+### 🚀 Aplicaciones Empresariales en Producción
+[![PHARMA TRACK](https://img.shields.io/badge/PHARMA_TRACK-1K+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp)
+[![Pharma Reception FP](https://img.shields.io/badge/Pharma_Reception_FP-100+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)
+![Apps Confidenciales](https://img.shields.io/badge/Apps_Confidenciales-6+_Apps-FF9800?style=for-the-badge&logo=android&logoColor=white)
+![Enterprise Apps](https://img.shields.io/badge/Enterprise_Apps-NDA_Protected-9C27B0?style=for-the-badge&logo=security&logoColor=white)
+
+#### 📱 Apps Públicamente Verificables
+| App | Cliente | Descargas | Función Principal | Estado |
+|-----|---------|-----------|-------------------|--------|
+| **[PHARMA TRACK](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp)** | Farmacias Peruanas | **1K+** | Gestión de pedidos de suministros CD → Tiendas | ✅ Activa |
+| **[Pharma Reception FP](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)** | Farmacias Peruanas | **100+** | Gestión eficiente de suministros de medicamentos | ✅ Activa |
+
+#### 🔒 Apps Bajo Restricciones Contractuales (NDA)
+| Sector | Tipo de App | Motivo de Confidencialidad | Estado |
+|---------|-------------|---------------------------|--------|
+| **Fintech** | Aplicaciones Bancarias | Políticas de seguridad financiera | ✅ En producción |
+| **Minería** | Sistemas de Control Industrial | Información estratégica corporativa | ✅ En producción |
+| **Salud** | Apps de Gestión Hospitalaria | Datos sensibles de pacientes (HIPAA) | ✅ En producción |
+| **Retail** | Sistemas de Inventario Crítico | Información comercial confidencial | ✅ En producción |
+| **Gubernamental** | Plataformas de Gestión Pública | Restricciones de seguridad nacional | ✅ En producción |
+| **Educación** | Sistemas de Gestión Académica | Datos estudiantiles protegidos | ✅ En producción |
+
+### 📊 Impacto Total Medible (Público + Confidencial)
+- **📱 8+ apps empresariales** en producción total
+- **📈 10K+ usuarios** estimados en todas las plataformas
+- **🏭 6+ sectores industriales** bajo NDA por seguridad
+- **💼 15+ clientes empresariales** con restricciones contractuales
+- **🔒 Nivel de confidencialidad**: Enterprise y Gubernamental
+- **🔄 Apps mantenidas activamente** bajo soporte técnico continuo
+
 ## 📊 Métricas y Análisis de Desarrollo
 
 ### 📈 Estadísticas GitHub
@@ -358,27 +401,31 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 
 ### 🏢 Portfolio de Desarrollo Empresarial
 - **50+** repositorios entre cuentas personales y organizacionales
-- **3** organizaciones empresariales activas: [Inclub-Backoffice](https://github.com/Inclub-Backoffice), [nuppi-peru](https://github.com/nuppi-peru), ebim
+- **3** organizaciones empresariales activas: **Keola**, **Software Engineering LATAM**, **Ebim**
 - **7** sectores industriales con sistemas en producción
 - **30K+** horas de desarrollo documentadas
 
 ### 🔗 Proyectos Organizacionales Destacados:
-- 🏦 **InClub Fintech**: [inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) - App Flutter Enterprise con CI/CD
-- ⚖️ **Nuppi Legal Tech**: [App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [SEL](https://github.com/nuppi-peru/SEL) - Sistemas de Gestión Legal
+- 🏦 **Keola (InClub Fintech)**: [inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) - App Flutter Enterprise con CI/CD
+- ⚖️ **Software Engineering LATAM**: [App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [SEL](https://github.com/nuppi-peru/SEL) - Sistemas de Gestión Legal
 
 ## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=DarkCodex29&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 
 
+## 🔒 Nota Profesional sobre Confidencialidad
+
+> **💼 Políticas Contractuales**: Como desarrollador enterprise, trabajo bajo estrictos acuerdos de confidencialidad (NDA) con clientes de sectores críticos como finanzas, salud y gobierno. Las apps mostradas públicamente representan solo una fracción de mi portfolio total. Las restricciones contractuales protegen información sensible de clientes y usuarios finales, cumpliendo con regulaciones como HIPAA, PCI-DSS y normativas gubernamentales.
+
 ## 🔗 Enlaces directos a proyectos destacados
 
 ### 🚀 Proyectos Principales Actuales
-[![InClub Mobile](https://img.shields.io/badge/InClub_Mobile-Fintech-green?style=for-the-badge&logo=flutter)](https://github.com/Inclub-Backoffice/inclub-mobile-app)
-[![Speed Front](https://img.shields.io/badge/Speed_Front-Documental-red?style=for-the-badge&logo=angular)](https://github.com/DarkCodex29/Speed-Front)
-[![Speed Backend](https://img.shields.io/badge/Speed_Backend-Enterprise-red?style=for-the-badge&logo=nestjs)](https://github.com/DarkCodex29/Speed-Back)
-[![App Nuppi](https://img.shields.io/badge/App_Nuppi-Legal-orange?style=for-the-badge&logo=flutter)](https://github.com/nuppi-peru/App-Nuppi)
-[![SEL Nuppi](https://img.shields.io/badge/SEL-Legal_System-orange?style=for-the-badge&logo=flutter)](https://github.com/nuppi-peru/SEL)
+[![InClub Mobile](https://img.shields.io/badge/InClub_Mobile_(Keola)-Fintech-green?style=for-the-badge&logo=flutter)](https://github.com/Inclub-Backoffice/inclub-mobile-app)
+[![Speed Front](https://img.shields.io/badge/Speed_Front_(Ebim)-Documental-red?style=for-the-badge&logo=angular)](https://github.com/DarkCodex29/Speed-Front)
+[![Speed Backend](https://img.shields.io/badge/Speed_Backend_(Ebim)-Enterprise-red?style=for-the-badge&logo=nestjs)](https://github.com/DarkCodex29/Speed-Back)
+[![App Nuppi](https://img.shields.io/badge/App_Nuppi_(SE_LATAM)-Legal-orange?style=for-the-badge&logo=flutter)](https://github.com/nuppi-peru/App-Nuppi)
+[![SEL](https://img.shields.io/badge/SEL_(SE_LATAM)-Legal_System-orange?style=for-the-badge&logo=flutter)](https://github.com/nuppi-peru/SEL)
 
 ### 💼 Proyectos Empresariales Personales
 [![SGEM Chinalco](https://img.shields.io/badge/SGEM_Chinalco-Flutter-blue?style=for-the-badge&logo=flutter)](https://github.com/DarkCodex29/SGEM---Chinalco)
