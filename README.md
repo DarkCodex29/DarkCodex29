@@ -146,74 +146,182 @@
 
 ---
 
-### 🏗️ **Otros Proyectos Empresariales**
+## 🏗️ **Otros Proyectos Empresariales Destacados**
 
-#### 🏭 SGEM - Sistema de Gestión Minera (Chinalco)
-**Cliente**: Minera Chinalco | **Empresa**: Ayesa (Experiencia previa) | **Tecnologías**: Flutter 3.3+, GetX, GoRouter
+<div align="center">
 
-Sistema multiplataforma para gestión integral de operaciones mineras con:
-- Gestión de personal y capacitaciones
-- Monitoreo en tiempo real de operaciones
-- Reportes PDF/Excel avanzados
-- Arquitectura modular con Repository Pattern
+![Proyectos](https://img.shields.io/badge/Proyectos_Completados-15+-2E7D32?style=for-the-badge)
+![Sectores](https://img.shields.io/badge/Sectores_Industriales-7+-1976D2?style=for-the-badge)
+![Clientes](https://img.shields.io/badge/Clientes_Empresariales-12+-F57C00?style=for-the-badge)
 
-🔗 [Ver SGEM](https://github.com/DarkCodex29/SGEM---Chinalco)
+</div>
 
-#### 🚚 Pharma Track - Sistema de Transporte FAPE
-**Cliente**: Farmacias Peruanas | **Rol**: Desarrollador Full Stack | **Tecnologías**: Flutter 3.4+, Firebase, Hive
+---
 
-📱 **Apps Publicadas en Google Play Store:**
-[![PHARMA TRACK](https://img.shields.io/badge/PHARMA_TRACK-1K+_Downloads-4CAF50?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp) [![Pharma Reception FP](https://img.shields.io/badge/Pharma_Reception_FP-100+_Downloads-4CAF50?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)
+### 🏭 **SGEM - Sistema de Gestión Minera (Chinalco)**
 
-Sistema integral de gestión logística con capacidades offline:
-- Gestión de entregas y devoluciones en tiempo real
-- Integración con DataWedge para escaneo de códigos
-- Arquitectura offline-first con sincronización automática
-- Firebase Crashlytics para monitoreo de errores
-- **1,100+ descargas** documentadas en Google Play Store
+<div align="center">
 
-🔗 [Ver Pharma Track](https://github.com/DarkCodex29/Pharma-Track---FAPE)
+![Flutter](https://img.shields.io/badge/Flutter-3.3+-02569B?style=flat-square&logo=flutter&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-State_Management-9C27B0?style=flat-square&logo=flutter&logoColor=white)
+![GoRouter](https://img.shields.io/badge/GoRouter-Navigation-FF5722?style=flat-square&logo=flutter&logoColor=white)
 
-#### 📋 Guías Laredo - Sistema SUNAT
-**Cliente**: Agroindustrial Laredo | **Rol**: Líder técnico | **Tecnologías**: Flutter 2.0+, Provider, Hive, Firebase
+</div>
 
-Sistema completo para gestión de guías de remisión SUNAT:
-- Integración con EFACT para emisión electrónica
-- Gestión empresarial y de cargas
-- Soporte multiplataforma (Android/Desktop)
-- Seguridad empresarial con variables de entorno
+**Cliente**: Minera Chinalco | **Empresa**: Ayesa (Experiencia previa)
 
-🔗 [Ver Guías App](https://github.com/DarkCodex29/Guias-App---Laredo) | [Ver Backend](https://github.com/DarkCodex29/Guias-Backend---Laredo)
+**🎯 Sistema multiplataforma para gestión integral de operaciones mineras:**
+- ⚙️ Gestión de personal y capacitaciones
+- 📊 Monitoreo en tiempo real de operaciones  
+- 📄 Reportes PDF/Excel avanzados
+- 🏗️ Arquitectura modular con Repository Pattern
 
-#### 💼 BusinessGo - Sistema de Gestión Empresarial
-**Tecnologías**: NestJS 11, TypeScript 5, PostgreSQL, Prisma, AWS S3
+<div align="center">
 
-Backend robusto para gestión empresarial integral:
-- Sistema de autenticación JWT completo
-- Gestión de usuarios, roles y permisos granulares
-- Módulos de productos, inventario y ventas
-- Gestión documental con AWS S3
-- Arquitectura modular escalable
+🔗 **[Ver SGEM en GitHub](https://github.com/DarkCodex29/SGEM---Chinalco)**
 
-🔗 [Ver BusinessGo Backend](https://github.com/DarkCodex29/Business-GO---Backend)
+</div>
 
-#### 🏭 Texfina - Sistema Textil
-**Tecnologías**: Backend + Frontend completo
+---
 
-Sistema de gestión para la industria textil con:
-- Gestión de producción y materiales
-- Control de calidad y procesos
-- Reportería avanzada
+### 🚚 **Pharma Track - Sistema de Transporte FAPE**
 
-🔗 [Ver Backend](https://github.com/DarkCodex29/Texfina-Backend) | [Ver Frontend](https://github.com/DarkCodex29/Texfina-Frontend)
+<div align="center">
 
-#### 🏪 Store Molino Diamante
-Sistema de punto de venta y gestión de inventario para retail.
-🔗 [Ver proyecto](https://github.com/DarkCodex29/Store-Molino-Diamante)
+[![PHARMA TRACK](https://img.shields.io/badge/PHARMA_TRACK-1K+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp) 
+[![Pharma Reception FP](https://img.shields.io/badge/Pharma_Reception_FP-100+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)
 
-#### 📰 Daily News - Clean Architecture
-Aplicación de noticias implementando Clean Architecture con Flutter.
-🔗 [Ver proyecto](https://github.com/DarkCodex29/Daily-News---Flutter-Clean-Architecture)
+![Flutter](https://img.shields.io/badge/Flutter-3.4+-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Database-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-Local_Storage-FFCA28?style=flat-square&logo=apache-hive&logoColor=black)
+
+</div>
+
+**Cliente**: Farmacias Peruanas | **Rol**: Desarrollador Full Stack
+
+**🎯 Sistema integral de gestión logística con capacidades offline:**
+- 🚛 Gestión de entregas y devoluciones en tiempo real
+- 📱 Integración con DataWedge para escaneo de códigos
+- 🔄 Arquitectura offline-first con sincronización automática
+- 🐛 Firebase Crashlytics para monitoreo de errores
+- **📈 1,100+ descargas** documentadas en Google Play Store
+
+<div align="center">
+
+🔗 **[Ver Pharma Track en GitHub](https://github.com/DarkCodex29/Pharma-Track---FAPE)**
+
+</div>
+
+---
+
+### 📋 **Guías Laredo - Sistema SUNAT**
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-2.0+-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-State_Management-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Backend-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SUNAT](https://img.shields.io/badge/SUNAT-EFACT_Integration-1976D2?style=flat-square&logo=government&logoColor=white)
+
+</div>
+
+**Cliente**: Agroindustrial Laredo | **Rol**: Líder técnico
+
+**🎯 Sistema completo para gestión de guías de remisión SUNAT:**
+- 📄 Integración con EFACT para emisión electrónica
+- 🏢 Gestión empresarial y de cargas
+- 💻 Soporte multiplataforma (Android/Desktop)
+- 🔐 Seguridad empresarial con variables de entorno
+
+<div align="center">
+
+🔗 **[Ver Guías App](https://github.com/DarkCodex29/Guias-App---Laredo)** | **[Ver Backend](https://github.com/DarkCodex29/Guias-Backend---Laredo)**
+
+</div>
+
+---
+
+### 💼 **BusinessGo - Sistema de Gestión Empresarial**
+
+<div align="center">
+
+![NestJS](https://img.shields.io/badge/NestJS-11-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3_Storage-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+</div>
+
+**🎯 Backend robusto para gestión empresarial integral:**
+- 🔐 Sistema de autenticación JWT completo
+- 👥 Gestión de usuarios, roles y permisos granulares
+- 📦 Módulos de productos, inventario y ventas
+- 📁 Gestión documental con AWS S3
+- 🏗️ Arquitectura modular escalable
+
+<div align="center">
+
+🔗 **[Ver BusinessGo Backend](https://github.com/DarkCodex29/Business-GO---Backend)**
+
+</div>
+
+---
+
+### 🏭 **Texfina - Sistema Textil**
+
+<div align="center">
+
+![Full Stack](https://img.shields.io/badge/Full_Stack-Backend+Frontend-673AB7?style=flat-square&logo=code&logoColor=white)
+
+</div>
+
+**🎯 Sistema de gestión para la industria textil:**
+- 🏭 Gestión de producción y materiales
+- ✅ Control de calidad y procesos
+- 📊 Reportería avanzada
+
+<div align="center">
+
+🔗 **[Ver Backend](https://github.com/DarkCodex29/Texfina-Backend)** | **[Ver Frontend](https://github.com/DarkCodex29/Texfina-Frontend)**
+
+</div>
+
+---
+
+### 🏪 **Store Molino Diamante**
+
+<div align="center">
+
+![POS](https://img.shields.io/badge/POS_System-Retail_Solution-4CAF50?style=flat-square&logo=store&logoColor=white)
+
+</div>
+
+**🎯 Sistema de punto de venta y gestión de inventario para retail**
+
+<div align="center">
+
+🔗 **[Ver proyecto](https://github.com/DarkCodex29/Store-Molino-Diamante)**
+
+</div>
+
+---
+
+### 📰 **Daily News - Clean Architecture**
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-Clean_Architecture-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Architecture](https://img.shields.io/badge/Architecture-Clean_Code-9C27B0?style=flat-square&logo=architecture&logoColor=white)
+
+</div>
+
+**🎯 Aplicación de noticias implementando Clean Architecture con Flutter**
+
+<div align="center">
+
+🔗 **[Ver proyecto](https://github.com/DarkCodex29/Daily-News---Flutter-Clean-Architecture)**
+
+</div>
 
 ---
 
