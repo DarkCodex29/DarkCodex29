@@ -1,4 +1,7 @@
-# 👨‍💻 Gianpierre Mio | Full Stack & Mobile Developer | UI/UX Designer
+<div align="center">
+
+# 👨‍💻 Gianpierre Mio
+## 🚀 Senior Mobile & Full Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gianpierre-mio)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/618306119818805248)
@@ -6,26 +9,77 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gianxs296@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=github&logoColor=white)](https://github.com/DarkCodex29)
 
+</div>
+
+---
+
 ## 💫 Sobre mí
 
-Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo completo de desarrollo de software. Actualmente liderando equipos y proyectos end-to-end en Ebim, donde diseño e implemento soluciones empresariales para diversos sectores industriales.
+> **Senior Mobile & Full Stack Developer** con más de **7 años de experiencia** en el ciclo completo de desarrollo de software. Actualmente liderando equipos y proyectos end-to-end en **Ebim**, donde diseño e implemento soluciones empresariales para diversos sectores industriales.
 
-- 🏢 **Full Stack Developer en Ebim**: Responsable de liderar el desarrollo de aplicaciones empresariales completas, desde la arquitectura hasta la implementación
+### 🎯 **Rol Actual**
+- 🏢 **Senior Developer en Ebim**: Responsable de liderar el desarrollo de aplicaciones empresariales completas, desde la arquitectura hasta la implementación
 - 💼 Encargado de la **conceptualización, diseño y desarrollo técnico** de múltiples proyectos para clientes de alto perfil
-- 🔭 Actualmente desarrollando **[InClub Mobile App](https://github.com/Inclub-Backoffice/inclub-mobile-app)** y liderando **45+ repositorios** con proyectos empresariales
+
+### 🚀 **Experiencia Destacada**
+- 🔭 Actualmente desarrollando **[InClub Mobile App](https://github.com/Inclub-Backoffice/inclub-mobile-app)** como **Senior Mobile Developer** en **Keola**
 - 🛠️ Experto en stack tecnológico diverso: **Flutter/Dart, .NET, Angular, NestJS, React, SQL Server, Firebase, AWS, PostgreSQL**
 - 🔄 Implementando **arquitecturas escalables y seguras** con enfoque en experiencia de usuario y rendimiento
 - 📱 Especializado en desarrollo multiplataforma y soluciones offline-first para entornos empresariales
 - 🌐 Creador de soluciones para múltiples sectores: Farmacéutico, Minero, Agroindustrial, Retail y Textil
+
+### 📍 **Ubicación & Disponibilidad**
 - 📍 Basado en **Chiclayo, Perú**, con disponibilidad para trabajo remoto global
 - 🚀 **Desarrollador Autodidacta** que construye su carrera a través del aprendizaje autónomo y la experiencia práctica
 
+---
+
+## 📱 Apps Publicadas en Google Play Store
+
+<div align="center">
+
+### 🚀 Aplicaciones Empresariales en Producción
+[![PHARMA TRACK](https://img.shields.io/badge/PHARMA_TRACK-1K+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp)
+[![Pharma Reception FP](https://img.shields.io/badge/Pharma_Reception_FP-100+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)
+![Apps Confidenciales](https://img.shields.io/badge/Apps_Confidenciales-6+_Apps-FF9800?style=for-the-badge&logo=android&logoColor=white)
+![Enterprise Apps](https://img.shields.io/badge/Enterprise_Apps-NDA_Protected-9C27B0?style=for-the-badge&logo=security&logoColor=white)
+
+</div>
+
+#### 📱 Apps Públicamente Verificables
+| App | Cliente | Descargas | Función Principal | Estado |
+|-----|---------|-----------|-------------------|--------|
+| **[PHARMA TRACK](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp)** | Farmacias Peruanas | **1K+** | Gestión de pedidos de suministros CD → Tiendas | ✅ Activa |
+| **[Pharma Reception FP](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)** | Farmacias Peruanas | **100+** | Gestión eficiente de suministros de medicamentos | ✅ Activa |
+
+#### 🔒 Apps Bajo Restricciones Contractuales (NDA)
+| Sector | Tipo de App | Motivo de Confidencialidad | Estado |
+|---------|-------------|---------------------------|--------|
+| **Fintech** | Aplicaciones Bancarias | Políticas de seguridad financiera | ✅ En producción |
+| **Minería** | Sistemas de Control Industrial | Información estratégica corporativa | ✅ En producción |
+| **Salud** | Apps de Gestión Hospitalaria | Datos sensibles de pacientes (HIPAA) | ✅ En producción |
+| **Retail** | Sistemas de Inventario Crítico | Información comercial confidencial | ✅ En producción |
+| **Gubernamental** | Plataformas de Gestión Pública | Restricciones de seguridad nacional | ✅ En producción |
+| **Educación** | Sistemas de Gestión Académica | Datos estudiantiles protegidos | ✅ En producción |
+
+### 📊 Impacto Total Medible (Público + Confidencial)
+- **📱 8+ apps empresariales** en producción total
+- **📈 10K+ usuarios** estimados en todas las plataformas
+- **🏭 6+ sectores industriales** bajo NDA por seguridad
+- **💼 15+ clientes empresariales** con restricciones contractuales
+- **🔒 Nivel de confidencialidad**: Enterprise y Gubernamental
+- **🔄 Apps mantenidas activamente** bajo soporte técnico continuo
+
+---
+
 ## 🛠️ Proyectos destacados recientes (2024-2025)
 
-### 🚀 Proyectos Principales Actuales (2025)
+### 🚀 **Proyectos Principales Actuales (2025)**
 
-### 💳 InClub Mobile App - Aplicación Fintech Empresarial
-**Organización**: [Inclub-Backoffice](https://github.com/Inclub-Backoffice) | **Rol**: Lead Developer  
+<details>
+<summary><h3>💳 InClub Mobile App - Aplicación Fintech Empresarial</h3></summary>
+
+**Organización**: [Inclub-Backoffice](https://github.com/Inclub-Backoffice) | **Rol**: Senior Mobile Developer  
 **Stack**: Flutter 3.32.0, Dart 3.x, BLoC Pattern, GoRouter, GetIt DI
 
 #### 🏗️ Arquitectura Técnica Implementada
@@ -58,7 +112,11 @@ Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo
 
 🔗 [Ver Proyecto Completo](https://github.com/Inclub-Backoffice/inclub-mobile-app) | [CI/CD Pipeline](https://github.com/Inclub-Backoffice/inclub-mobile-app/actions)
 
-### 📄 Speed Front/Back - Sistema Documental Empresarial
+</details>
+
+<details>
+<summary><h3>📄 Speed Front/Back - Sistema Documental Empresarial</h3></summary>
+
 **Tecnologías**: Angular 16, TypeScript 5, PrimeNG 16, NestJS 11, PostgreSQL | **Estado**: En desarrollo activo
 
 #### 🏗️ Arquitectura Enterprise Implementada
@@ -84,9 +142,13 @@ Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo
 
 🔗 [Ver Speed Front](https://github.com/DarkCodex29/Speed-Front) | [Ver Speed Backend](https://github.com/DarkCodex29/Speed-Back)
 
+</details>
+
 ---
 
-### 🏭 SGEM - Sistema de Gestión Minera (Chinalco)
+### 🏗️ **Otros Proyectos Empresariales**
+
+#### 🏭 SGEM - Sistema de Gestión Minera (Chinalco)
 **Cliente**: Minera Chinalco | **Empresa**: Ayesa (Experiencia previa) | **Tecnologías**: Flutter 3.3+, GetX, GoRouter
 
 Sistema multiplataforma para gestión integral de operaciones mineras con:
@@ -97,7 +159,7 @@ Sistema multiplataforma para gestión integral de operaciones mineras con:
 
 🔗 [Ver SGEM](https://github.com/DarkCodex29/SGEM---Chinalco)
 
-### 🚚 Pharma Track - Sistema de Transporte FAPE
+#### 🚚 Pharma Track - Sistema de Transporte FAPE
 **Cliente**: Farmacias Peruanas | **Rol**: Desarrollador Full Stack | **Tecnologías**: Flutter 3.4+, Firebase, Hive
 
 📱 **Apps Publicadas en Google Play Store:**
@@ -112,7 +174,7 @@ Sistema integral de gestión logística con capacidades offline:
 
 🔗 [Ver Pharma Track](https://github.com/DarkCodex29/Pharma-Track---FAPE)
 
-### 📋 Guías Laredo - Sistema SUNAT
+#### 📋 Guías Laredo - Sistema SUNAT
 **Cliente**: Agroindustrial Laredo | **Rol**: Líder técnico | **Tecnologías**: Flutter 2.0+, Provider, Hive, Firebase
 
 Sistema completo para gestión de guías de remisión SUNAT:
@@ -123,9 +185,7 @@ Sistema completo para gestión de guías de remisión SUNAT:
 
 🔗 [Ver Guías App](https://github.com/DarkCodex29/Guias-App---Laredo) | [Ver Backend](https://github.com/DarkCodex29/Guias-Backend---Laredo)
 
-
-
-### 💼 BusinessGo - Sistema de Gestión Empresarial
+#### 💼 BusinessGo - Sistema de Gestión Empresarial
 **Tecnologías**: NestJS 11, TypeScript 5, PostgreSQL, Prisma, AWS S3
 
 Backend robusto para gestión empresarial integral:
@@ -137,7 +197,7 @@ Backend robusto para gestión empresarial integral:
 
 🔗 [Ver BusinessGo Backend](https://github.com/DarkCodex29/Business-GO---Backend)
 
-### 🏭 Texfina - Sistema Textil
+#### 🏭 Texfina - Sistema Textil
 **Tecnologías**: Backend + Frontend completo
 
 Sistema de gestión para la industria textil con:
@@ -147,55 +207,40 @@ Sistema de gestión para la industria textil con:
 
 🔗 [Ver Backend](https://github.com/DarkCodex29/Texfina-Backend) | [Ver Frontend](https://github.com/DarkCodex29/Texfina-Frontend)
 
-### 🏪 Store Molino Diamante
+#### 🏪 Store Molino Diamante
 Sistema de punto de venta y gestión de inventario para retail.
 🔗 [Ver proyecto](https://github.com/DarkCodex29/Store-Molino-Diamante)
 
-### 📰 Daily News - Clean Architecture
+#### 📰 Daily News - Clean Architecture
 Aplicación de noticias implementando Clean Architecture con Flutter.
 🔗 [Ver proyecto](https://github.com/DarkCodex29/Daily-News---Flutter-Clean-Architecture)
 
+---
+
 ## 💻 Stack Tecnológico Especializado
 
-### Desarrollo Frontend & Mobile
+<div align="center">
+
+### Frontend & Mobile
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-1976D2?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend & APIs
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Bases de Datos
+### Bases de Datos & Cloud
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-
-### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### Herramientas de Estado y Storage
-![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFCA28?style=for-the-badge&logo=apache-hive&logoColor=black)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+</div>
 
-### UI/UX & Diseño
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+---
 
 ## 🔑 Competencias clave destacadas
 
@@ -217,6 +262,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Secure Environment Variables**: Gestión segura de credenciales en todos los proyectos
 - **Firebase Security Rules**: Configuración avanzada en proyectos con Firebase
 
+---
+
 ## 📈 Professional Impact Metrics (2025)
 
 ### 📊 Development Portfolio Overview
@@ -237,6 +284,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **📱 10K+ usuarios** estimados en apps empresariales totales
 - **🔒 Nivel Enterprise/Gubernamental** con restricciones contractuales
 
+---
+
 ## 🌟 Logros técnicos recientes (2024-2025)
 
 ### Arquitecturas Innovadoras
@@ -256,13 +305,15 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Tema Oscuro Nativo**: Implementado en aplicaciones de escritorio
 - **Componentes Reutilizables**: Librería HDC-WC para consistency en proyectos web
 
+---
+
 ## 📊 Experiencia por sector (Actualizada)
 
 ### 🏢 Portfolio de Organizaciones Empresariales
 
 | Organización | Sector Industrial | Plataforma | Acceso a Repositorios | Stack Tecnológico | Rol |
 |--------------|------------------|------------|----------------------|-------------------|-----|
-| **Keola** | Fintech e Inversiones | Aplicación Móvil | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Lead Developer |
+| **Keola** | Fintech e Inversiones | Aplicación Móvil | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Senior Mobile Developer |
 | **Software Engineering LATAM** | Tecnología Legal | Suite Web y Móvil | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter Web, APIs Gestión Legal | Desarrollador Full Stack |
 | **Ebim** | Consultoría IT | Soluciones Empresariales | Repositorios Privados | Soluciones Multiplataforma | Senior Developer |
 
@@ -279,6 +330,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 | **🔒 Fintech** | **Confidencial** | **Apps Bancarias (NDA)** | **Flutter Enterprise, APIs Seguras** | **Mobile Banking** |
 | **🔒 Salud** | **Confidencial** | **Apps Hospitalarias (NDA)** | **Flutter + Backend HIPAA** | **Healthcare Systems** |
 | **🔒 Gubernamental** | **Confidencial** | **Plataformas Públicas (NDA)** | **Multi-Platform Secure** | **Government Apps** |
+
+---
 
 ## 🔍 Últimas tecnologías dominadas (2025)
 
@@ -300,6 +353,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Environment Management**: Gestión segura de variables por entorno
 - **Performance Monitoring**: Firebase Crashlytics y análisis de rendimiento
 
+---
+
 ## 🌱 Aprendizaje continuo y próximas metas
 
 ### En Desarrollo
@@ -312,6 +367,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Sistema de IA para Inventarios**: Predicción inteligente de stock
 - **App Multiplataforma para Salud**: Contribución al sector salud peruano
 - **Platform as a Service**: Crear una plataforma para SMEs peruanas
+
+---
 
 ## 👥 Contribuciones a la comunidad
 
@@ -326,6 +383,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Automatización de Procesos**: Reduciendo trabajo manual en empresas tradicionales
 - **Capacitación Tecnológica**: Compartiendo conocimientos en comunidades locales
 
+---
+
 ## 🔍 Disponibilidad y colaboraciones
 
 - ✅ **Consultoría en Arquitectura**: Especializado en sistemas empresariales escalables
@@ -333,6 +392,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - ✅ **Mentorías Técnicas**: Formación en Flutter, NestJS y arquitecturas modernas
 - ✅ **Proyectos de Alto Impacto**: Interesado en transformación digital empresarial
 - ✅ **Trabajo Remoto Global**: Experiencia con equipos distribuidos
+
+---
 
 ## 🎯 Visión profesional 2025-2026
 
@@ -348,6 +409,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Crear estándares de desarrollo** para la industria peruana
 - **Posicionar a Perú** como referente en desarrollo de software empresarial
 
+---
+
 ## ⚡ Datos personales e intereses
 
 - 🎮 **Gaming y Desarrollo Indie**: Explorando Unity y desarrollo de juegos
@@ -357,39 +420,11 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - 🌱 **Sostenibilidad**: Interesado en tecnologías verdes y responsables
 - ☕ **Coffee Enthusiast**: El combustible para las largas sesiones de código
 
-## 📱 Apps Publicadas en Google Play Store
-
-### 🚀 Aplicaciones Empresariales en Producción
-[![PHARMA TRACK](https://img.shields.io/badge/PHARMA_TRACK-1K+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp)
-[![Pharma Reception FP](https://img.shields.io/badge/Pharma_Reception_FP-100+_Downloads-4CAF50?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)
-![Apps Confidenciales](https://img.shields.io/badge/Apps_Confidenciales-6+_Apps-FF9800?style=for-the-badge&logo=android&logoColor=white)
-![Enterprise Apps](https://img.shields.io/badge/Enterprise_Apps-NDA_Protected-9C27B0?style=for-the-badge&logo=security&logoColor=white)
-
-#### 📱 Apps Públicamente Verificables
-| App | Cliente | Descargas | Función Principal | Estado |
-|-----|---------|-----------|-------------------|--------|
-| **[PHARMA TRACK](https://play.google.com/store/apps/details?id=pe.inretail.recojo.fp)** | Farmacias Peruanas | **1K+** | Gestión de pedidos de suministros CD → Tiendas | ✅ Activa |
-| **[Pharma Reception FP](https://play.google.com/store/apps/details?id=pe.inretail.prerecepcion)** | Farmacias Peruanas | **100+** | Gestión eficiente de suministros de medicamentos | ✅ Activa |
-
-#### 🔒 Apps Bajo Restricciones Contractuales (NDA)
-| Sector | Tipo de App | Motivo de Confidencialidad | Estado |
-|---------|-------------|---------------------------|--------|
-| **Fintech** | Aplicaciones Bancarias | Políticas de seguridad financiera | ✅ En producción |
-| **Minería** | Sistemas de Control Industrial | Información estratégica corporativa | ✅ En producción |
-| **Salud** | Apps de Gestión Hospitalaria | Datos sensibles de pacientes (HIPAA) | ✅ En producción |
-| **Retail** | Sistemas de Inventario Crítico | Información comercial confidencial | ✅ En producción |
-| **Gubernamental** | Plataformas de Gestión Pública | Restricciones de seguridad nacional | ✅ En producción |
-| **Educación** | Sistemas de Gestión Académica | Datos estudiantiles protegidos | ✅ En producción |
-
-### 📊 Impacto Total Medible (Público + Confidencial)
-- **📱 8+ apps empresariales** en producción total
-- **📈 10K+ usuarios** estimados en todas las plataformas
-- **🏭 6+ sectores industriales** bajo NDA por seguridad
-- **💼 15+ clientes empresariales** con restricciones contractuales
-- **🔒 Nivel de confidencialidad**: Enterprise y Gubernamental
-- **🔄 Apps mantenidas activamente** bajo soporte técnico continuo
+---
 
 ## 📊 Métricas y Análisis de Desarrollo
+
+<div align="center">
 
 ### 📈 Estadísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
@@ -398,6 +433,8 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 
 ### 📈 Actividad de Desarrollo Anual
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkCodex29&custom_title=Actividad%20de%20Desarrollo%20Anual&theme=react-dark&area=true&hide_border=true)
+
+</div>
 
 ### 🏢 Portfolio de Desarrollo Empresarial
 - **50+** repositorios entre cuentas personales y organizacionales
@@ -412,13 +449,17 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 ## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=DarkCodex29&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-
+---
 
 ## 🔒 Nota Profesional sobre Confidencialidad
 
 > **💼 Políticas Contractuales**: Como desarrollador enterprise, trabajo bajo estrictos acuerdos de confidencialidad (NDA) con clientes de sectores críticos como finanzas, salud y gobierno. Las apps mostradas públicamente representan solo una fracción de mi portfolio total. Las restricciones contractuales protegen información sensible de clientes y usuarios finales, cumpliendo con regulaciones como HIPAA, PCI-DSS y normativas gubernamentales.
 
+---
+
 ## 🔗 Enlaces directos a proyectos destacados
+
+<div align="center">
 
 ### 🚀 Proyectos Principales Actuales
 [![InClub Mobile](https://img.shields.io/badge/InClub_Mobile_(Keola)-Fintech-green?style=for-the-badge&logo=flutter)](https://github.com/Inclub-Backoffice/inclub-mobile-app)
@@ -437,43 +478,5 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 ### 💻 Proyectos Técnicos
 [![Daily News](https://img.shields.io/badge/Daily_News-Clean_Architecture-blue?style=for-the-badge&logo=flutter)](https://github.com/DarkCodex29/Daily-News---Flutter-Clean-Architecture)
 [![CRUD NestJS](https://img.shields.io/badge/CRUD_NestJS-TypeORM-red?style=for-the-badge&logo=nestjs)](https://github.com/DarkCodex29/CRUD-NestJS-MySQL-TypeORM)
-[![Flutter TokTik](https://img.shields.io/badge/Flutter_TokTik-Social_App-blue?style=for-the-badge&logo=flutter)](https://github.com/DarkCodex29/Flutter-TokTik)
-
-## 🤝 ¿Listo para llevar tu proyecto al siguiente nivel?
-
-Si buscas un desarrollador Full Stack que combine **experiencia técnica sólida** con **visión estratégica empresarial**, ¡conversemos! Mi enfoque en crear soluciones que realmente resuelvan problemas de negocio, respaldado por **33+ repositorios** y **proyectos en producción**, podría ser exactamente lo que tu empresa necesita.
-
-### Especialidades comprobadas:
-- ✅ **Arquitecturas Empresariales**: Sistemas escalables con microservicios
-- ✅ **Desarrollo Multiplataforma**: Apps que funcionan en todos los dispositivos
-- ✅ **Integración de Sistemas**: Conectando APIs, bases de datos y servicios cloud
-- ✅ **Performance Optimization**: Mejoras del 40% en velocidad promedio
-- ✅ **Team Leadership**: Liderando equipos técnicos en proyectos complejos
-
-### Sectores con experiencia demostrada:
-🏥 Farmacéutico | ⛏️ Minería | 🌾 Agroindustrial | 🏪 Retail | 🏭 Textil | 💼 Servicios Empresariales
-
----
-
-## 📞 Contacto profesional
-
-- 📧 **Email**: [gianxs296@gmail.com](mailto:gianxs296@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/gianpierre-mio](https://linkedin.com/in/gianpierre-mio)
-- 📱 **WhatsApp**: +51952164832
-- 💻 **GitHub**: [github.com/DarkCodex29](https://github.com/DarkCodex29)
-- 📍 **Ubicación**: Chiclayo, Perú (Disponible remoto)
-
-### ✍️ Quote del día
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-<div align="center">
-  
-[![Visitors](https://visitcount.itsvg.in/api?id=DarkCodex29&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**"Transformando ideas complejas en soluciones digitales que generan impacto real"**
-
-*Construyendo el futuro digital de las empresas, una línea de código a la vez* 💻✨
 
 </div> 
