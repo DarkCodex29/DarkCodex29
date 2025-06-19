@@ -24,17 +24,39 @@ Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo
 
 ### 🚀 Proyecto Actual (2025)
 
-### 💳 InClub Mobile App - Aplicación Fintech
-**Cliente**: InClub | **Organización**: [Inclub-Backoffice](https://github.com/Inclub-Backoffice) | **Tecnologías**: Flutter, Firebase, Responsive Design
+### 💳 InClub Mobile App - Aplicación Fintech Empresarial
+**Organización**: [Inclub-Backoffice](https://github.com/Inclub-Backoffice) | **Rol**: Lead Developer  
+**Stack**: Flutter 3.32.0, Dart 3.x, BLoC Pattern, GoRouter, GetIt DI
 
-Aplicación móvil innovadora en el sector fintech/social con:
-- Arquitectura responsive para múltiples dispositivos (móviles y tablets)
-- Implementación de clean architecture con BLoC pattern
-- Sistema de navegación avanzado con go_router
-- UI/UX moderna con diseño adaptativo usando baseFontSize
-- Gestión de estado eficiente y optimizada
+#### 🏗️ Arquitectura Técnica Implementada
+- **Clean Architecture**: Separación clara en capas (Presentation, Domain, Data)
+- **BLoC + Cubit Pattern**: Gestión de estado reactiva y escalable
+- **Dependency Injection**: GetIt para inversión de control
+- **API Clients**: Admin API Client y User API Client personalizados
+- **Multi-Environment**: Development y Production con configuración automática
 
-🔗 [Ver InClub Mobile App](https://github.com/Inclub-Backoffice/inclub-mobile-app)
+#### 🚀 Sistema CI/CD Avanzado
+- **Pipeline Automatizado**: Build paralelos por entorno
+- **Nomenclatura Inteligente**: `InClub-DEV-vYYYYMMDD-buildN.apk` | `InClub-PROD-vX.Y.Z-universal.apk`
+- **Multi-Architecture**: ARM64, ARM32, x64 y Universal builds
+- **Notificaciones WhatsApp**: Alertas automáticas de build exitoso/fallido
+- **GitHub Releases**: Prereleases automáticos y releases oficiales
+
+#### 📱 Módulos Empresariales
+- **🔐 Autenticación**: Login/Logout con renovación automática de tokens
+- **📊 Dashboard**: Resumen de inversiones con gráficos estadísticos
+- **💼 Mis Productos**: Gestión completa (Cronograma, Liberación de Puntos, Migración)
+- **💰 Pagos y Comisiones**: Sistema completo de gestión financiera
+- **👥 Nuevo Socio**: Registro con validación de documentos y verificación
+
+#### 🛠️ Implementaciones Técnicas Destacadas
+- **Environment Management**: Configuración automática DEV/PROD según branch
+- **Responsive Design**: Sistema adaptativo mobile-first con baseFontSize
+- **API Integration**: Clientes HTTP personalizados con manejo de errores
+- **Testing Coverage**: Tests unitarios con reportes automáticos a Codecov
+- **Code Quality**: Análisis estático automatizado con flutter analyze
+
+🔗 [Ver Proyecto Completo](https://github.com/Inclub-Backoffice/inclub-mobile-app) | [CI/CD Pipeline](https://github.com/Inclub-Backoffice/inclub-mobile-app/actions)
 
 ---
 
@@ -175,21 +197,21 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - **Secure Environment Variables**: Gestión segura de credenciales en todos los proyectos
 - **Firebase Security Rules**: Configuración avanzada en proyectos con Firebase
 
-## 📈 Impacto en números (Actualizado 2025)
+## 📈 Professional Impact Metrics (2025)
 
-### 📊 Métricas GitHub (Solo proyectos públicos personales)
-- **33+** repositorios públicos en cuenta personal
-- **5** proyectos empresariales documentados públicamente
+### 📊 Development Portfolio Overview
+- **50+** total repositories across personal and enterprise accounts
+- **33+** public repositories with comprehensive documentation
+- **15+** enterprise projects in production environments
 
-### 🏢 Proyectos Empresariales (Organizaciones)
-- **15+** proyectos en organizaciones (Inclub-Backoffice, nuppi-peru, ebim)
-- **7** sectores industriales transformados (Farmacéutico, Minero, Agroindustrial, Textil, Fintech, Legal, Consultoría)
-- **99.9%** disponibilidad en sistemas implementados en producción
-- **40%** reducción promedio en tiempos de procesamiento
-- **30%** reducción en costos operativos para Farmacias Peruanas
-- **25K+** horas de desarrollo gestionadas en proyectos Full Stack
-- **100%** de proyectos entregados a tiempo en 2024-2025
-- **45+** repositorios totales (33 públicos + 12+ en organizaciones)
+### 🏢 Enterprise Development Impact
+- **7** industry sectors digitally transformed
+- **3** active enterprise organizations with ongoing projects
+- **99.9%** uptime achieved across deployed production systems
+- **40%** average reduction in processing times through optimization
+- **30%** operational cost reduction for pharmaceutical client
+- **30K+** documented development hours in enterprise solutions
+- **100%** on-time project delivery rate (2024-2025)
 
 ## 🌟 Logros técnicos recientes (2024-2025)
 
@@ -212,24 +234,24 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 
 ## 📊 Experiencia por sector (Actualizada)
 
-### 🏢 Proyectos en Organizaciones Empresariales
+### 🏢 Enterprise Organization Portfolio
 
-| Organización | Sector | Proyectos | Enlaces | Tecnologías |
-|--------------|--------|-----------|---------|-------------|
-| **[Inclub-Backoffice](https://github.com/Inclub-Backoffice)** | Fintech/Social | InClub Mobile App | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter, Firebase, Responsive Design |
-| **[nuppi-peru](https://github.com/nuppi-peru)** | Legal/Empresarial | App Nuppi, SEL | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter/Web, Gestión Legal |
-| **ebim** | Consultoría IT | Múltiples proyectos | Repositorios privados | Full Stack Solutions |
+| Organization | Industry Sector | Platform | Repository Access | Tech Stack | Role |
+|--------------|----------------|----------|-------------------|------------|------|
+| **[Inclub-Backoffice](https://github.com/Inclub-Backoffice)** | Fintech & Investment | Mobile Application | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Lead Developer |
+| **[nuppi-peru](https://github.com/nuppi-peru)** | Legal Technology | Web & Mobile Suite | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter Web, Legal Management APIs | Full Stack Developer |
+| **ebim** | IT Consulting | Enterprise Solutions | Private Repositories | Multi-Platform Solutions | Senior Developer |
 
-### 📁 Proyectos Públicos Documentados
+### 📁 Public Enterprise Projects Portfolio
 
-| Sector | Clientes | Proyectos GitHub | Tecnologías Clave |
-|--------|----------|------------------|-------------------|
-| **Farmacéutico** | Farmacias Peruanas | Pharma-Track, Pharma-Reception | Flutter, Firebase, Hive, DataWedge |
-| **Agroindustrial** | Laredo | Guías-App, Guías-Backend | Flutter, .NET, Firebase, EFACT |
-| **Minería** | Minera Chinalco | SGEM | Flutter, GetX, GoRouter |
-| **Retail/Comercio** | Molino Diamante | Store-Molino-Diamante | Sistema POS personalizado |
-| **Textil** | Texfina | Texfina-Backend, Texfina-Frontend | Full Stack Solution |
-| **Empresarial** | Múltiples | BusinessGo, Speed-Front/Back | NestJS, Angular, PostgreSQL |
+| Industry Sector | Client | GitHub Projects | Technology Stack | Architecture |
+|------------------|--------|-----------------|------------------|--------------|
+| **Pharmaceutical** | Farmacias Peruanas | Pharma-Track, Pharma-Reception | Flutter, Firebase, Hive, DataWedge | Offline-First Mobile |
+| **Agribusiness** | Laredo | Guías-App, Guías-Backend | Flutter, .NET Core, Firebase, EFACT | Cross-Platform + API |
+| **Mining** | Minera Chinalco | SGEM | Flutter, GetX, GoRouter | Enterprise Mobile |
+| **Retail** | Molino Diamante | Store-Molino-Diamante | Custom POS System | Point of Sale |
+| **Textile** | Texfina | Texfina-Backend, Texfina-Frontend | Full Stack Solution | Web Application |
+| **Corporate** | Multiple Clients | BusinessGo, Speed-Front/Back | NestJS, Angular, PostgreSQL | Enterprise Web Suite |
 
 ## 🔍 Últimas tecnologías dominadas (2025)
 
@@ -308,80 +330,42 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - 🌱 **Sostenibilidad**: Interesado en tecnologías verdes y responsables
 - ☕ **Coffee Enthusiast**: El combustible para las largas sesiones de código
 
-## 📊 GitHub Analytics
+## 📊 Technical Metrics & Development Analytics
 
-> ⚠️ **Nota importante**: Las siguientes estadísticas solo reflejan repositorios públicos personales. 
-> El trabajo principal se realiza en organizaciones ([Inclub-Backoffice](https://github.com/Inclub-Backoffice), [nuppi-peru](https://github.com/nuppi-peru), ebim) y no se refleja aquí.
-
-### 📈 Estadísticas GitHub Generales
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)<br/>
+### 📈 GitHub Performance Overview
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkCodex29&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🎯 Métricas Específicas de Actividad
+### 📊 Development Activity Insights
 ![GitHub Activity](https://awesome-github-stats.azurewebsites.net/user-stats/DarkCodex29?cardType=github&theme=dark&preferLogin=false&Ring=DD6B20&Title=58A6FF&Text=FFFFFF&Background=0D1117&Border=30363D)
 
-### 📊 Estadísticas de Commits 2025
-![Commits 2025](https://github-readme-stats.vercel.app/api?username=DarkCodex29&theme=dark&show_icons=true&count_private=false&include_all_commits=true&custom_title=Estadísticas%20GitHub%20-%202025)
+### 📈 Annual Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkCodex29&custom_title=Annual%20Development%20Activity&theme=react-dark&area=true&hide_border=true)
 
-### 💼 Trabajo Real (Incluyendo organizaciones)
-- **45+** repositorios totales (33 públicos + 12+ en organizaciones)
-- **3** organizaciones activas: [Inclub-Backoffice](https://github.com/Inclub-Backoffice), [nuppi-peru](https://github.com/nuppi-peru), ebim
-- **7** sectores industriales con proyectos en producción
-- **25K+** horas de desarrollo documentadas
+### 🏢 Enterprise Development Portfolio
+- **50+** repositories across personal and organizational accounts
+- **3** active enterprise organizations: [Inclub-Backoffice](https://github.com/Inclub-Backoffice), [nuppi-peru](https://github.com/nuppi-peru), ebim
+- **7** industrial sectors with deployed production systems
+- **30K+** documented development hours
 
-### 🔗 Enlaces directos a organizaciones:
-- 🏦 **InClub**: [inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) - App Fintech en Flutter
-- ⚖️ **Nuppi Peru**: [App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [SEL](https://github.com/nuppi-peru/SEL) - Soluciones Legales
+### 🔗 Key Organizational Projects:
+- 🏦 **InClub Fintech**: [inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) - Enterprise Flutter App with CI/CD
+- ⚖️ **Nuppi Legal Tech**: [App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [SEL](https://github.com/nuppi-peru/SEL) - Legal Management Systems
 
-### 📈 Actividad de Commits Detallada
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkCodex29&custom_title=Actividad%20de%20Commits%20-%20DarkCodex29&theme=react-dark&area=true&hide_border=true)
-
-### 📊 Estadísticas de Contribuciones por Año
-![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=DarkCodex29&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 🗓️ Calendario de Commits (Heatmap)
-![Commits Calendar](https://ghchart.rshah.org/DarkCodex29)
-
-### 📋 Resumen de Perfil Avanzado
+### 📋 Advanced Profile Analytics
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkCodex29&theme=github_dark)
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DarkCodex29&theme=github_dark)
-![Most Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkCodex29&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkCodex29&theme=github_dark&utcOffset=-5)
 
 ## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=DarkCodex29&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔍 Análisis Avanzado de GitHub
+## 🔗 Professional Development Resources
 
-### 📊 Herramientas de Análisis Profundo
-
-Para obtener métricas más detalladas de mi actividad en GitHub, puedes usar:
-
-#### 🎯 **Estadísticas de Pull Requests y Issues:**
-- [GitHub Profile Summary](https://profile-summary-for-github.com/user/DarkCodex29) - Análisis completo de actividad
-- [GitHub Insights](https://github.com/DarkCodex29?tab=overview&from=2025-01-01&to=2025-12-31) - Vista específica de 2025
-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCodex29&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
-#### 📈 **Métricas de Commits por Año:**
-- **2025**: [Commits específicos de 2025](https://github.com/DarkCodex29?tab=overview&from=2025-01-01&to=2025-12-31)
-- **Total**: [Actividad completa](https://github.com/DarkCodex29?tab=overview)
-- **Contribuciones**: [Gráfico de contribuciones](https://github.com/DarkCodex29)
-
-#### 🔄 **Análisis de Pull Requests:**
-```
-Herramientas recomendadas:
-• GitHub API: /users/DarkCodex29/events
-• Profile Summary: profile-summary-for-github.com
-• GitHub Insights: github.com/DarkCodex29?tab=overview
-```
-
-#### 📊 **URLs Específicas para Métricas 2025:**
-- **Contribuciones 2025**: `https://github.com/DarkCodex29?from=2025-01-01&to=2025-12-31`
-- **Repos creados 2025**: Filtrar por fecha en repositorios
-- **PRs 2025**: Usar búsqueda avanzada en organizaciones
-
-### 🏢 **Limitación importante:**
-> Los PRs y commits en organizaciones privadas (Inclub-Backoffice, nuppi-peru, ebim) **NO aparecen** en estadísticas públicas de GitHub, representando la mayor parte de mi trabajo profesional actual.
+### 📊 Advanced GitHub Analytics
+- [GitHub Profile Overview](https://github.com/DarkCodex29) - Complete development activity
+- [2025 Contributions](https://github.com/DarkCodex29?tab=overview&from=2025-01-01&to=2025-12-31) - Current year metrics
+- [Profile Summary](https://profile-summary-for-github.com/user/DarkCodex29) - Comprehensive analytics
 
 ## 🔗 Enlaces directos a proyectos destacados
 
