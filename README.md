@@ -22,7 +22,7 @@ Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo
 
 ## 🛠️ Proyectos destacados recientes (2024-2025)
 
-### 🚀 Proyecto Actual (2025)
+### 🚀 Proyectos Principales Actuales (2025)
 
 ### 💳 InClub Mobile App - Aplicación Fintech Empresarial
 **Organización**: [Inclub-Backoffice](https://github.com/Inclub-Backoffice) | **Rol**: Lead Developer  
@@ -57,6 +57,32 @@ Desarrollador Full Stack & Mobile con más de 7 años de experiencia en el ciclo
 - **Code Quality**: Análisis estático automatizado con flutter analyze
 
 🔗 [Ver Proyecto Completo](https://github.com/Inclub-Backoffice/inclub-mobile-app) | [CI/CD Pipeline](https://github.com/Inclub-Backoffice/inclub-mobile-app/actions)
+
+### 📄 Speed Front/Back - Sistema Documental Empresarial
+**Tecnologías**: Angular 16, TypeScript 5, PrimeNG 16, NestJS 11, PostgreSQL | **Estado**: En desarrollo activo
+
+#### 🏗️ Arquitectura Enterprise Implementada
+- **Frontend Angular 16**: Web Components personalizados con PrimeNG
+- **Backend NestJS 11**: API RESTful con PostgreSQL y Prisma
+- **TypeScript 5**: Tipado avanzado y patterns modernos
+- **Web Components Library (HDC-WC)**: Componentes reutilizables
+- **SSRS Integration**: Reportes avanzados integrados
+
+#### 📊 Funcionalidades Empresariales
+- **🔄 Workflows Automatizados**: Procesos configurables por cliente
+- **✍️ Firma Electrónica**: Integración nativa con documentos
+- **📈 Dashboards Ejecutivos**: Métricas en tiempo real
+- **📋 Gestión Documental**: Upload, categorización y búsqueda avanzada
+- **👥 Multi-tenant**: Soporte para múltiples empresas
+
+#### 🛠️ Innovaciones Técnicas
+- **Component-Based Architecture**: Librerías reutilizables HDC-WC
+- **Real-time Updates**: WebSockets para notificaciones
+- **File Management**: Optimización automática de archivos
+- **Role-based Security**: Permisos granulares por módulo
+- **Responsive Design**: Optimizado para escritorio y tablets
+
+🔗 [Ver Speed Front](https://github.com/DarkCodex29/Speed-Front) | [Ver Speed Backend](https://github.com/DarkCodex29/Speed-Back)
 
 ---
 
@@ -93,17 +119,7 @@ Sistema completo para gestión de guías de remisión SUNAT:
 
 🔗 [Ver Guías App](https://github.com/DarkCodex29/Guias-App---Laredo) | [Ver Backend](https://github.com/DarkCodex29/Guias-Backend---Laredo)
 
-### 📄 Speed Front - Sistema Documental Empresarial
-**Tecnologías**: Angular 16, TypeScript 5, PrimeNG 16, SSRS
 
-Aplicación web empresarial para gestión documental y workflows:
-- Workflows automatizados configurables
-- Firma electrónica integrada
-- Dashboards ejecutivos con métricas en tiempo real
-- Web Components personalizados (HDC-WC Library)
-- Integración con reportes SSRS
-
-🔗 [Ver Speed Front](https://github.com/DarkCodex29/Speed-Front) | [Ver Speed Backend](https://github.com/DarkCodex29/Speed-Back)
 
 ### 💼 BusinessGo - Sistema de Gestión Empresarial
 **Tecnologías**: NestJS 11, TypeScript 5, PostgreSQL, Prisma, AWS S3
@@ -234,24 +250,24 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 
 ## 📊 Experiencia por sector (Actualizada)
 
-### 🏢 Enterprise Organization Portfolio
+### 🏢 Portfolio de Organizaciones Empresariales
 
-| Organization | Industry Sector | Platform | Repository Access | Tech Stack | Role |
-|--------------|----------------|----------|-------------------|------------|------|
-| **[Inclub-Backoffice](https://github.com/Inclub-Backoffice)** | Fintech & Investment | Mobile Application | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Lead Developer |
-| **[nuppi-peru](https://github.com/nuppi-peru)** | Legal Technology | Web & Mobile Suite | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter Web, Legal Management APIs | Full Stack Developer |
-| **ebim** | IT Consulting | Enterprise Solutions | Private Repositories | Multi-Platform Solutions | Senior Developer |
+| Organización | Sector Industrial | Plataforma | Acceso a Repositorios | Stack Tecnológico | Rol |
+|--------------|------------------|------------|----------------------|-------------------|-----|
+| **[Inclub-Backoffice](https://github.com/Inclub-Backoffice)** | Fintech e Inversiones | Aplicación Móvil | [📱 inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) | Flutter 3.32.0, BLoC, CI/CD, Multi-Env | Lead Developer |
+| **[nuppi-peru](https://github.com/nuppi-peru)** | Tecnología Legal | Suite Web y Móvil | [📱 App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [⚖️ SEL](https://github.com/nuppi-peru/SEL) | Flutter Web, APIs Gestión Legal | Desarrollador Full Stack |
+| **ebim** | Consultoría IT | Soluciones Empresariales | Repositorios Privados | Soluciones Multiplataforma | Senior Developer |
 
-### 📁 Public Enterprise Projects Portfolio
+### 📁 Portfolio de Proyectos Empresariales Públicos
 
-| Industry Sector | Client | GitHub Projects | Technology Stack | Architecture |
-|------------------|--------|-----------------|------------------|--------------|
-| **Pharmaceutical** | Farmacias Peruanas | Pharma-Track, Pharma-Reception | Flutter, Firebase, Hive, DataWedge | Offline-First Mobile |
-| **Agribusiness** | Laredo | Guías-App, Guías-Backend | Flutter, .NET Core, Firebase, EFACT | Cross-Platform + API |
-| **Mining** | Minera Chinalco | SGEM | Flutter, GetX, GoRouter | Enterprise Mobile |
-| **Retail** | Molino Diamante | Store-Molino-Diamante | Custom POS System | Point of Sale |
-| **Textile** | Texfina | Texfina-Backend, Texfina-Frontend | Full Stack Solution | Web Application |
-| **Corporate** | Multiple Clients | BusinessGo, Speed-Front/Back | NestJS, Angular, PostgreSQL | Enterprise Web Suite |
+| Sector Industrial | Cliente | Proyectos GitHub | Stack Tecnológico | Arquitectura |
+|------------------|---------|------------------|-------------------|--------------|
+| **Farmacéutico** | Farmacias Peruanas | Pharma-Track, Pharma-Reception | Flutter, Firebase, Hive, DataWedge | Mobile Offline-First |
+| **Agroindustrial** | Laredo | Guías-App, Guías-Backend | Flutter, .NET Core, Firebase, EFACT | Cross-Platform + API |
+| **Minería** | Minera Chinalco | SGEM | Flutter, GetX, GoRouter | Mobile Empresarial |
+| **Retail** | Molino Diamante | Store-Molino-Diamante | Sistema POS Personalizado | Punto de Venta |
+| **Textil** | Texfina | Texfina-Backend, Texfina-Frontend | Solución Full Stack | Aplicación Web |
+| **Corporativo** | Múltiples Clientes | BusinessGo, Speed-Front/Back | NestJS, Angular, PostgreSQL | Suite Web Empresarial |
 
 ## 🔍 Últimas tecnologías dominadas (2025)
 
@@ -330,47 +346,37 @@ Aplicación de noticias implementando Clean Architecture con Flutter.
 - 🌱 **Sostenibilidad**: Interesado en tecnologías verdes y responsables
 - ☕ **Coffee Enthusiast**: El combustible para las largas sesiones de código
 
-## 📊 Technical Metrics & Development Analytics
+## 📊 Métricas y Análisis de Desarrollo
 
-### 📈 GitHub Performance Overview
+### 📈 Estadísticas GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DarkCodex29&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkCodex29&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 📊 Development Activity Insights
-![GitHub Activity](https://awesome-github-stats.azurewebsites.net/user-stats/DarkCodex29?cardType=github&theme=dark&preferLogin=false&Ring=DD6B20&Title=58A6FF&Text=FFFFFF&Background=0D1117&Border=30363D)
+### 📈 Actividad de Desarrollo Anual
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkCodex29&custom_title=Actividad%20de%20Desarrollo%20Anual&theme=react-dark&area=true&hide_border=true)
 
-### 📈 Annual Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarkCodex29&custom_title=Annual%20Development%20Activity&theme=react-dark&area=true&hide_border=true)
+### 🏢 Portfolio de Desarrollo Empresarial
+- **50+** repositorios entre cuentas personales y organizacionales
+- **3** organizaciones empresariales activas: [Inclub-Backoffice](https://github.com/Inclub-Backoffice), [nuppi-peru](https://github.com/nuppi-peru), ebim
+- **7** sectores industriales con sistemas en producción
+- **30K+** horas de desarrollo documentadas
 
-### 🏢 Enterprise Development Portfolio
-- **50+** repositories across personal and organizational accounts
-- **3** active enterprise organizations: [Inclub-Backoffice](https://github.com/Inclub-Backoffice), [nuppi-peru](https://github.com/nuppi-peru), ebim
-- **7** industrial sectors with deployed production systems
-- **30K+** documented development hours
-
-### 🔗 Key Organizational Projects:
-- 🏦 **InClub Fintech**: [inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) - Enterprise Flutter App with CI/CD
-- ⚖️ **Nuppi Legal Tech**: [App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [SEL](https://github.com/nuppi-peru/SEL) - Legal Management Systems
-
-### 📋 Advanced Profile Analytics
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarkCodex29&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarkCodex29&theme=github_dark&utcOffset=-5)
+### 🔗 Proyectos Organizacionales Destacados:
+- 🏦 **InClub Fintech**: [inclub-mobile-app](https://github.com/Inclub-Backoffice/inclub-mobile-app) - App Flutter Enterprise con CI/CD
+- ⚖️ **Nuppi Legal Tech**: [App-Nuppi](https://github.com/nuppi-peru/App-Nuppi) • [SEL](https://github.com/nuppi-peru/SEL) - Sistemas de Gestión Legal
 
 ## 🏆 GitHub Achievements
 ![](https://github-profile-trophy.vercel.app/?username=DarkCodex29&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-## 🔗 Professional Development Resources
 
-### 📊 Advanced GitHub Analytics
-- [GitHub Profile Overview](https://github.com/DarkCodex29) - Complete development activity
-- [2025 Contributions](https://github.com/DarkCodex29?tab=overview&from=2025-01-01&to=2025-12-31) - Current year metrics
-- [Profile Summary](https://profile-summary-for-github.com/user/DarkCodex29) - Comprehensive analytics
 
 ## 🔗 Enlaces directos a proyectos destacados
 
-### 🚀 Proyectos Actuales en Organizaciones
+### 🚀 Proyectos Principales Actuales
 [![InClub Mobile](https://img.shields.io/badge/InClub_Mobile-Fintech-green?style=for-the-badge&logo=flutter)](https://github.com/Inclub-Backoffice/inclub-mobile-app)
+[![Speed Front](https://img.shields.io/badge/Speed_Front-Documental-red?style=for-the-badge&logo=angular)](https://github.com/DarkCodex29/Speed-Front)
+[![Speed Backend](https://img.shields.io/badge/Speed_Backend-Enterprise-red?style=for-the-badge&logo=nestjs)](https://github.com/DarkCodex29/Speed-Back)
 [![App Nuppi](https://img.shields.io/badge/App_Nuppi-Legal-orange?style=for-the-badge&logo=flutter)](https://github.com/nuppi-peru/App-Nuppi)
 [![SEL Nuppi](https://img.shields.io/badge/SEL-Legal_System-orange?style=for-the-badge&logo=flutter)](https://github.com/nuppi-peru/SEL)
 
