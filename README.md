@@ -158,32 +158,6 @@
 
 ---
 
-### 🏭 **SGEM - Sistema de Gestión Minera (Chinalco)**
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-3.3+-02569B?style=flat-square&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-State_Management-9C27B0?style=flat-square&logo=flutter&logoColor=white)
-![GoRouter](https://img.shields.io/badge/GoRouter-Navigation-FF5722?style=flat-square&logo=flutter&logoColor=white)
-
-</div>
-
-**Cliente**: Minera Chinalco | **Empresa**: Ayesa (Experiencia previa)
-
-**🎯 Sistema multiplataforma para gestión integral de operaciones mineras:**
-- ⚙️ Gestión de personal y capacitaciones
-- 📊 Monitoreo en tiempo real de operaciones  
-- 📄 Reportes PDF/Excel avanzados
-- 🏗️ Arquitectura modular con Repository Pattern
-
-<div align="center">
-
-🔗 **[Ver SGEM en GitHub](https://github.com/DarkCodex29/SGEM---Chinalco)**
-
-</div>
-
----
-
 ### 🚚 **Pharma Track - Sistema de Transporte FAPE**
 
 <div align="center">
