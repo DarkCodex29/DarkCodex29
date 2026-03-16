@@ -14,6 +14,10 @@
 
 ---
 
+> *I build software for businesses that can't afford to stop working.*
+
+Currently building **[Impulsa](https://impulsa.darkcodex.dev)** — a multi-tenant SaaS for Peruvian micro-businesses.
+
 +6 years building enterprise apps across fintech, health, mining, retail and pharma. Specialized in Flutter and Kotlin, with full-stack experience in NestJS, .NET, Angular and React. 10+ apps in production, 10K+ active users.
 
 ---
