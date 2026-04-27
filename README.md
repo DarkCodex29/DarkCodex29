@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gianpierre Collazos
-### Senior Mobile Engineer · Full Stack Developer
+### Senior Full Stack Engineer · Mobile & Web
 
 [![Portfolio](https://img.shields.io/badge/darkcodex.dev-000?style=flat&logo=google-chrome&logoColor=white)](https://darkcodex.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gianpierre-mio)
@@ -16,25 +16,35 @@
 
 > *I build software for businesses that can't afford to stop working.*
 
-Currently building **[Impulsa](https://impulsa.darkcodex.dev)** — a multi-tenant SaaS for Peruvian micro-businesses.
+Currently building **[Go Nexa](https://gonexa.io)** — a suite of SaaS products for Latin American businesses: supplier management, micro-business operations, and fiscal compliance.
 
-+6 years building enterprise apps across fintech, health, mining, retail and pharma. Specialized in Flutter and Kotlin, with full-stack experience in NestJS, .NET, Angular and React. 10+ apps in production, 10K+ active users.
++6 years building enterprise apps across fintech, health, mining, retail and pharma. Specialized in Flutter, TypeScript and full-stack architecture with NestJS, .NET, Angular and React. 10+ apps in production, 10K+ active users.
 
 ---
 
-## Personal Projects / Proyectos propios
+## Go Nexa — Products I'm Building
+
+| Product | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **[Portal de Proveedores](https://portal.proveedores.gonexa.io)** | Multi-tenant SaaS for corporate supplier management — homologation, purchase orders, invoicing, tenders, contracts, evaluations, ERP sync | Next.js 16 · NestJS 11 · PostgreSQL · Redis · BullMQ | ✅ Production |
+| **[Impulsa](https://impulsa.gonexa.io)** | Multi-tenant SaaS for Peruvian micro-businesses — appointments, POS, inventory, billing | NestJS · Flutter · PostgreSQL · Docker | ✅ Production |
+| **[Go Nexa Web](https://gonexa.io)** | Corporate website — 3 product landings with GSAP animations, bento grid, scroll-driven effects | Next.js 16 · GSAP · Tailwind CSS 4 | ✅ Live |
+
+## Open Source & Public APIs
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[Impulsa](https://impulsa.darkcodex.dev)** | Multi-tenant SaaS B2B for Peruvian micro-businesses — appointments, POS, inventory, billing | NestJS · Flutter · PostgreSQL · Docker | ✅ Production |
-| **[izipay_sdk](https://pub.dev/packages/izipay_sdk)** | Flutter plugin for the official Izipay Android & iOS SDKs. Card payments and Yape. Verified publisher `darkcodex.dev` | Flutter · Kotlin · Swift | ✅ pub.dev v1.0.2 |
+| **[izipay_sdk](https://pub.dev/packages/izipay_sdk)** | Flutter plugin for Izipay Android & iOS SDKs. Card payments and Yape. Verified publisher `darkcodex.dev` | Flutter · Kotlin · Swift | ✅ pub.dev |
 | **[API SUNAT/RENIEC](https://api-reniec-sunat.darkcodex.dev)** | Public REST API — 17.8M+ Peruvian business records. Rate limiting, Redis cache, OWASP security | NestJS · PostgreSQL · Redis | ✅ Production |
 | **[API Ubigeo](https://api-ubigeo.darkcodex.dev)** | Peru geographic API — departments, provinces, districts, 250 countries | NestJS · PostgreSQL · Redis | ✅ Production |
+| **[API Email](https://api-email.darkcodex.dev)** | Centralized email microservice — Resend API + branded templates | NestJS · Resend | ✅ Production |
+| **[API Fiscal](https://fiscal-api.darkcodex.dev)** | Peruvian electronic invoicing (SUNAT UBL 2.1) — XML, digital signatures, SOAP | NestJS · PostgreSQL | ✅ Production |
 | **[darkcodex.dev](https://darkcodex.dev)** | 3D interactive portfolio with dual OS system (macOS ↔ Windows 11) | React 19 · Three.js · TypeScript | ✅ Live |
+| **[opencode-account-rotator](https://github.com/DarkCodex29/opencode-account-rotator)** | OpenCode plugin: automatic Claude Max account rotation on rate limits | TypeScript | ✅ Published |
 
 ---
 
-## Work Experience / Experiencia
+## Work Experience
 
 **Senior Flutter Engineer** · EXEOS
 Blockchain wallet (Ethereum, BIP39/BIP44, ERC-20). +32K LOC, monorepo 7 packages, multi-platform (Android, Windows, Linux).
@@ -59,11 +69,12 @@ Pharma Track (1K+ downloads) and Pharma Reception. Offline-first with DataWedge 
 
 ```
 Mobile      Flutter · Kotlin · Swift · React Native
-Frontend    React · Angular · Next.js · TypeScript · Tailwind
-Backend     NestJS · .NET · Node.js · Laravel · Java · Spring Boot
-Database    PostgreSQL · SQL Server · Firebase · Redis · MySQL · Prisma
-DevOps      Docker · GitHub Actions · AWS · Azure · Nginx · VPS
-AI          Claude (Anthropic SDK) · OpenAI SDK
+Frontend    React · Angular · Next.js · TypeScript · Tailwind · GSAP
+Backend     NestJS · .NET · Node.js · Laravel · Spring Boot
+Database    PostgreSQL · Redis · Firebase · Prisma · SQL Server
+Queue       BullMQ · Redis
+DevOps      Docker · GitHub Actions · Gitea CI · Traefik · Nginx · VPS
+AI/Tools    Claude Code · OpenCode · Anthropic SDK · OpenAI SDK
 ```
 
 ---
@@ -74,6 +85,7 @@ AI          Claude (Anthropic SDK) · OpenAI SDK
 - **2,456** automated tests · 100% pass rate (InClub)
 - **10K+** active users across production apps
 - **93%** sync time reduction (3.5h → 15 min)
+- **6** microservices in production (api-email, api-fiscal, api-sunat, api-ubigeo, portal-proveedores, impulsa)
 - **10+** enterprise apps in production · 2 publicly verifiable on Play Store
 
 ---
